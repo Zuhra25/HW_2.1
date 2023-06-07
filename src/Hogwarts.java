@@ -9,6 +9,7 @@ public class Hogwarts {
         this.transgress = transgress;
     }
 
+
     public String getFullname() {
         return fullname;
     }
